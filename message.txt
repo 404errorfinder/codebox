@@ -1,1 +1,2 @@
-hai everyone
+hai everyone.
+This is my first experiance in GitHub
